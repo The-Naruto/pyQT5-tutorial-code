@@ -2,20 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb5371f1-6667-49bb-92b9-0736d1adb53b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2_菜单和工具栏/3_子菜单.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_菜单和工具栏/4_勾选菜单.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_菜单和工具栏/5_右键菜单.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_菜单和工具栏/6_工具栏.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2_菜单和工具栏/7_主窗口.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_布局管理/1_绝对定位.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_布局管理/2_盒布局.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_布局管理/3_栅格布局.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/3_布局管理/4_跨列和跨行的布局.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_事件和信号/1_Signals&amp;slots.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_事件和信号/2_重构事件处理器.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_事件和信号/3_事件对象.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_事件和信号/4_事件发送.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/4_事件和信号/5_信号发送.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_对话框/1_文字对话框.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_对话框/2_颜色对话框.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_对话框/3_选择字体.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_对话框/4_选择文件.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_控件/1_复选框.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_控件/2_切换按钮.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_控件/3_滑块.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,8 +52,8 @@
       <recent name="E:\My_Git_PROJ\pyQT5-tutorial-code\2_菜单和工具栏" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.5_信号发送">
-    <configuration name="1_Signals&amp;slots" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1_复选框">
+    <configuration name="1_复选框" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyQT5-Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -68,12 +61,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_事件和信号" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_控件" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_事件和信号/1_Signals&amp;slots.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_控件/1_复选框.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,7 +75,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_重构事件处理器" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2_切换按钮" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyQT5-Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,12 +83,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_事件和信号" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_控件" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_事件和信号/2_重构事件处理器.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_控件/2_切换按钮.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3_事件对象" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2_切换按钮" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyQT5-Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -112,12 +105,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_事件和信号" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_控件" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_事件和信号/3_事件对象.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_控件/2_切换按钮.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4_事件发送" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3_选择字体" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyQT5-Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,12 +127,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_事件和信号" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_对话框" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_事件和信号/4_事件发送.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_对话框/3_选择字体.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="5_信号发送" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3_滑块" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyQT5-Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -156,12 +149,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4_事件和信号" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/6_控件" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4_事件和信号/5_信号发送.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/6_控件/3_滑块.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4_选择文件" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pyQT5-Study" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/5_对话框" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/5_对话框/4_选择文件.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +187,10 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.5_信号发送" />
-        <item itemvalue="Python.4_事件发送" />
-        <item itemvalue="Python.3_事件对象" />
-        <item itemvalue="Python.2_重构事件处理器" />
-        <item itemvalue="Python.1_Signals&amp;slots" />
+        <item itemvalue="Python.2_切换按钮" />
+        <item itemvalue="Python.1_复选框" />
+        <item itemvalue="Python.4_选择文件" />
+        <item itemvalue="Python.3_选择字体" />
       </list>
     </recent_temporary>
   </component>
@@ -208,6 +222,11 @@
       <workItem from="1609223723382" duration="3992000" />
       <workItem from="1609900959093" duration="2634000" />
       <workItem from="1609909664159" duration="11350000" />
+      <workItem from="1609981045015" duration="6754000" />
+      <workItem from="1610004995417" duration="3413000" />
+      <workItem from="1610067765183" duration="5286000" />
+      <workItem from="1610093876823" duration="2681000" />
+      <workItem from="1610343037413" duration="1814000" />
     </task>
     <servers />
   </component>
@@ -215,40 +234,69 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="83" key="GridCell.Tab.0.bottom" timestamp="1609921164959">
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1610096560037">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="83" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1609921164959" />
-    <state width="1237" height="83" key="GridCell.Tab.0.center" timestamp="1609921164959">
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1610096560037" />
+    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1610096560037">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="83" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1609921164959" />
-    <state width="1237" height="83" key="GridCell.Tab.0.left" timestamp="1609921164959">
+    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1610096560037" />
+    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1610096560037">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="83" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1609921164959" />
-    <state width="1237" height="83" key="GridCell.Tab.0.right" timestamp="1609921164959">
+    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1610096560037" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1610096560037">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="83" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1609921164959" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1610096560037" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1610096560037">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1610096560037" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1610096560037">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1610096560037" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1610096560037">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1610096560037" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1610096560037">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1610096560037" />
     <state x="641" y="76" width="638" height="534" key="find.popup" timestamp="1609910859034">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="641" y="76" width="638" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1609910859034" />
+    <state x="636" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1609984994118">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="636" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1609984994118" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="source" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$3_.coverage" NAME="3_事件对象 Coverage Results" MODIFIED="1609919697282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_事件和信号" />
+    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$3_.coverage" NAME="3_滑块 Coverage Results" MODIFIED="1610096430294" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_控件" />
     <SUITE FILE_PATH="coverage/pyQT5_Study$.coverage" NAME="提示框 Coverage Results" MODIFIED="1609210904461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_HelloWorld" />
-    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$1_.coverage" NAME="1_绝对定位 Coverage Results" MODIFIED="1609912616100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3_布局管理" />
-    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$2_.coverage" NAME="2_重构事件处理器 Coverage Results" MODIFIED="1609918489283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_事件和信号" />
+    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$1_.coverage" NAME="1_复选框 Coverage Results" MODIFIED="1610094024876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_控件" />
+    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$1___.coverage" NAME="1_文字_颜色_字体对话框 Coverage Results" MODIFIED="1609985517894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_对话框" />
+    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$2_.coverage" NAME="2_切换按钮 Coverage Results" MODIFIED="1610094040424" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_控件" />
     <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$7_.coverage" NAME="7_主窗口 Coverage Results" MODIFIED="1609912553859" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_菜单和工具栏" />
     <SUITE FILE_PATH="coverage/pyQT5_Study$5_.coverage" NAME="5_消息盒子 Coverage Results" MODIFIED="1609221521235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_HelloWorld" />
     <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$6_.coverage" NAME="6_工具栏 Coverage Results" MODIFIED="1609911173161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2_菜单和工具栏" />
+    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$2__.coverage" NAME="2_颜色_字体对话框 Coverage Results" MODIFIED="1609987949141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_对话框" />
     <SUITE FILE_PATH="coverage/pyQT5_Study$6_.coverage" NAME="6_窗口居中 Coverage Results" MODIFIED="1609221959076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_HelloWorld" />
     <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$5_.coverage" NAME="5_信号发送 Coverage Results" MODIFIED="1609921067494" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_事件和信号" />
     <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$1_Signals_slots.coverage" NAME="1_Signals&amp;slots Coverage Results" MODIFIED="1609917438721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_事件和信号" />
     <SUITE FILE_PATH="coverage/pyQT5_Study$4_.coverage" NAME="4_关闭窗口 Coverage Results" MODIFIED="1609221516325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_HelloWorld" />
     <SUITE FILE_PATH="coverage/pyQT5_Study$helloworld.coverage" NAME="helloworld Coverage Results" MODIFIED="1609205571802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_HelloWorld" />
-    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$4_.coverage" NAME="4_事件发送 Coverage Results" MODIFIED="1609920294912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_事件和信号" />
+    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$4_.coverage" NAME="4_选择文件 Coverage Results" MODIFIED="1610007860581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_对话框" />
   </component>
 </project>
