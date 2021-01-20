@@ -2,30 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb5371f1-6667-49bb-92b9-0736d1adb53b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/10_案例/1_俄罗斯方块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_案例/2_眼皮占卜.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/10_案例/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_打包/1_Windows平台.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11_打包/2_Android平台.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_控件/4_进度条.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_控件/5_日历.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_控件/6_图片控件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_控件/7_行编辑.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_控件/8_分割组件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_控件/9_下拉选框.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/6_控件/web.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_拖拽/1_简单的拖放.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/7_拖拽/2_拖放按钮组件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_绘图/1_文本涂鸦.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_绘图/2_点的绘画.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_绘图/3_颜色.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_绘图/4_画笔.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_绘图/5_画刷.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/8_绘图/6_贝塞尔曲线.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/9_自定义控件/1_Burning_Widget.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/pyQT5-Study.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pyQT5-Study.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/10_案例/i3_钟表窗口.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEMP/appMain.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEMP/myWidget.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEMP/res_rc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEMP/ui_Widget.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_控件/3_滑块.py" beforeDir="false" afterPath="$PROJECT_DIR$/6_控件/3_滑块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_案例/1_俄罗斯方块.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_案例/1_俄罗斯方块.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_案例/2_眼皮占卜.py" beforeDir="false" afterPath="$PROJECT_DIR$/10_案例/2_眼皮占卜.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_案例/2_眼皮跳の玄学.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_案例/2_眼皮跳の玄学.ui" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_案例/2_眼皮跳の玄学_bak.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_基本认识/5_消息盒子.py" beforeDir="false" afterPath="$PROJECT_DIR$/1_基本认识/5_消息弹框.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,6 +40,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -64,16 +53,17 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\My_Git_PROJ\pyQT5-tutorial-code" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\My_Git_PROJ\pyQT5-tutorial-code\6_控件" />
       <recent name="E:\My_Git_PROJ\pyQT5-tutorial-code\2_菜单和工具栏" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\My_Git_PROJ\pyQT5-tutorial-code\TEMP" />
+      <recent name="E:\My_Git_PROJ\pyQT5-tutorial-code" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.2_眼皮跳の玄学">
-    <configuration name="2_眼皮跳の玄学" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2_眼皮占卜">
+    <configuration name="2_眼皮占卜" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyQT5-Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -86,7 +76,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_案例/2_眼皮跳の玄学.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_案例/2_眼皮占卜.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -95,7 +85,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_眼皮跳の玄学_bak (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3_栅格布局" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyQT5-Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -103,12 +93,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_案例" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3_布局管理" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_案例/2_眼皮跳の玄学_bak.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3_布局管理/3_栅格布局.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -117,7 +107,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_眼皮跳の玄学_bak" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3_提示框" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyQT5-Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -125,12 +115,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_案例" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_基本认识" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\My_Git_PROJ\pyQT5-tutorial-code\10_案例\2_眼皮跳の玄学_bak.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1_基本认识/3_提示框.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +129,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_eyesJump (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="5_消息弹框" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyQT5-Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,12 +137,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/10_案例" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1_基本认识" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_案例/2_eyesJump.py" />
+      <option name="SCRIPT_NAME" value="E:\My_Git_PROJ\pyQT5-tutorial-code\1_基本认识\5_消息弹框.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2_eyesJump" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="i2_EyeJump" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pyQT5-Study" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -174,7 +164,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\My_Git_PROJ\pyQT5-tutorial-code\10_案例\2_eyesJump.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/10_案例/i2_EyeJump.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -185,11 +175,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2_眼皮跳の玄学" />
-        <item itemvalue="Python.2_eyesJump (1)" />
-        <item itemvalue="Python.2_眼皮跳の玄学_bak (1)" />
-        <item itemvalue="Python.2_eyesJump" />
-        <item itemvalue="Python.2_眼皮跳の玄学_bak" />
+        <item itemvalue="Python.2_眼皮占卜" />
+        <item itemvalue="Python.5_消息弹框" />
+        <item itemvalue="Python.3_提示框" />
+        <item itemvalue="Python.i2_EyeJump" />
+        <item itemvalue="Python.3_栅格布局" />
       </list>
     </recent_temporary>
   </component>
@@ -234,6 +224,10 @@
       <workItem from="1610585405562" duration="8290000" />
       <workItem from="1610601386605" duration="5732000" />
       <workItem from="1610671830335" duration="4873000" />
+      <workItem from="1610956320392" duration="860000" />
+      <workItem from="1611018811995" duration="8056000" />
+      <workItem from="1611102339242" duration="8108000" />
+      <workItem from="1611119590918" duration="10952000" />
     </task>
     <servers />
   </component>
@@ -241,46 +235,46 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1237" height="94" key="GridCell.Tab.0.bottom" timestamp="1610681272900">
+    <state width="1237" height="92" key="GridCell.Tab.0.bottom" timestamp="1611130914505">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="94" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1610681272900" />
-    <state width="1237" height="94" key="GridCell.Tab.0.center" timestamp="1610681272899">
+    <state width="1237" height="92" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611130914505" />
+    <state width="1237" height="92" key="GridCell.Tab.0.center" timestamp="1611130914505">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="94" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1610681272899" />
-    <state width="1237" height="94" key="GridCell.Tab.0.left" timestamp="1610681272899">
+    <state width="1237" height="92" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1611130914505" />
+    <state width="1237" height="92" key="GridCell.Tab.0.left" timestamp="1611130914505">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="94" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1610681272899" />
-    <state width="1237" height="94" key="GridCell.Tab.0.right" timestamp="1610681272900">
+    <state width="1237" height="92" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1611130914505" />
+    <state width="1237" height="92" key="GridCell.Tab.0.right" timestamp="1611130914505">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="94" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1610681272900" />
-    <state width="595" height="85" key="GridCell.Tab.1.bottom" timestamp="1610615280749">
+    <state width="1237" height="92" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1611130914505" />
+    <state width="1237" height="185" key="GridCell.Tab.1.bottom" timestamp="1611130879184">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="595" height="85" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1610615280749" />
-    <state width="595" height="85" key="GridCell.Tab.1.center" timestamp="1610615280749">
+    <state width="1237" height="185" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1611130879184" />
+    <state width="1237" height="185" key="GridCell.Tab.1.center" timestamp="1611130879183">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="595" height="85" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1610615280749" />
-    <state width="595" height="85" key="GridCell.Tab.1.left" timestamp="1610615280749">
+    <state width="1237" height="185" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1611130879183" />
+    <state width="1237" height="185" key="GridCell.Tab.1.left" timestamp="1611130879183">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="595" height="85" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1610615280749" />
-    <state width="595" height="85" key="GridCell.Tab.1.right" timestamp="1610615280749">
+    <state width="1237" height="185" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1611130879183" />
+    <state width="1237" height="185" key="GridCell.Tab.1.right" timestamp="1611130879183">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="595" height="85" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1610615280749" />
+    <state width="1237" height="185" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1611130879183" />
     <state x="641" y="76" width="638" height="534" key="find.popup" timestamp="1609910859034">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="641" y="76" width="638" height="534" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1609910859034" />
-    <state x="636" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1609984994118">
+    <state x="636" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1611126389595">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="636" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1609984994118" />
+    <state x="636" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1611126389595" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -299,21 +293,23 @@
     </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$3_.coverage" NAME="3_颜色 Coverage Results" MODIFIED="1610507925671" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_绘图" />
+    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$3_.coverage" NAME="3_提示框 Coverage Results" MODIFIED="1611125584096" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_基本认识" />
     <SUITE FILE_PATH="coverage/pyQT5_Study$.coverage" NAME="提示框 Coverage Results" MODIFIED="1609210904461" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_HelloWorld" />
     <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$2_eyesJump__1_.coverage" NAME="2_eyesJump (1) Coverage Results" MODIFIED="1610676521342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_案例" />
+    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$i2_EyeJump.coverage" NAME="i2_EyeJump Coverage Results" MODIFIED="1611124309660" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_案例" />
     <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$1_.coverage" NAME="1_俄罗斯方块 Coverage Results" MODIFIED="1610606448809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_案例" />
     <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$2__bak__1_.coverage" NAME="2_眼皮跳の玄学_bak (1) Coverage Results" MODIFIED="1610674777839" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_案例" />
     <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$1___.coverage" NAME="1_文字_颜色_字体对话框 Coverage Results" MODIFIED="1609985517894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_对话框" />
-    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$2_.coverage" NAME="2_眼皮跳の玄学 Coverage Results" MODIFIED="1610676733856" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_案例" />
-    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$7_.coverage" NAME="7_行编辑 Coverage Results" MODIFIED="1610421208394" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_控件" />
+    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$2_.coverage" NAME="2_眼皮占卜 Coverage Results" MODIFIED="1611130914497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_案例" />
+    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$i3___1_.coverage" NAME="i3_钟表窗口 (1) Coverage Results" MODIFIED="1611103407023" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10_案例" />
+    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$7_.coverage" NAME="7_行编辑 Coverage Results" MODIFIED="1611104754779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_控件" />
     <SUITE FILE_PATH="coverage/pyQT5_Study$5_.coverage" NAME="5_消息盒子 Coverage Results" MODIFIED="1609221521235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_HelloWorld" />
-    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$1_Burning_Widget.coverage" NAME="1_Burning_Widget Coverage Results" MODIFIED="1610526985682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9_自定义控件" />
+    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$1_Burning_Widget.coverage" NAME="1_Burning_Widget Coverage Results" MODIFIED="1611024157912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/9_自定义控件" />
     <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$8_.coverage" NAME="8_分割组件 Coverage Results" MODIFIED="1610431568989" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_控件" />
     <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$6_.coverage" NAME="6_贝塞尔曲线 Coverage Results" MODIFIED="1610516424851" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_绘图" />
     <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$2__.coverage" NAME="2_颜色_字体对话框 Coverage Results" MODIFIED="1609987949141" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5_对话框" />
     <SUITE FILE_PATH="coverage/pyQT5_Study$6_.coverage" NAME="6_窗口居中 Coverage Results" MODIFIED="1609221959076" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_HelloWorld" />
-    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$5_.coverage" NAME="5_画刷 Coverage Results" MODIFIED="1610516122335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8_绘图" />
+    <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$5_.coverage" NAME="5_消息盒子 Coverage Results" MODIFIED="1611125599014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_基本认识" />
     <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$1_Signals_slots.coverage" NAME="1_Signals&amp;slots Coverage Results" MODIFIED="1609917438721" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4_事件和信号" />
     <SUITE FILE_PATH="coverage/pyQT5_tutorial_code$9_.coverage" NAME="9_下拉选框 Coverage Results" MODIFIED="1610433015009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6_控件" />
     <SUITE FILE_PATH="coverage/pyQT5_Study$4_.coverage" NAME="4_关闭窗口 Coverage Results" MODIFIED="1609221516325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1_HelloWorld" />

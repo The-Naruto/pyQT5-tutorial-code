@@ -4,6 +4,8 @@
 # @Email   : the-naruto@foxmail.com
 # @Project : pyQT5-tutorial-code
 
+
+# QBasicTimer 一个窗体只有一个,QTimer一个窗体里可以有多个
 from PyQt5.QtWidgets import QMainWindow, QFrame,QDesktopWidget,QApplication
 from PyQt5.QtCore import Qt,QBasicTimer,pyqtSignal
 from PyQt5.QtGui import QPainter,QColor
