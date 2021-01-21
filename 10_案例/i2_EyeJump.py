@@ -64,7 +64,7 @@ class Ui_Form(object):
 
     def retranslateUi(self, Form):
         _translate = QtCore.QCoreApplication.translate
-        Form.setWindowTitle(_translate("Form", "EyeJump"))
+        Form.setWindowTitle(_translate("Form", "眼跳的艺术"))
         self.label.setText(_translate("Form", "当前时间:"))
         self.label_2.setText(_translate("Form", "(可手动调整)"))
         self.leftUPBtn.setText(_translate("Form", "左上(木)"))

@@ -12,6 +12,7 @@ painter的坐标原点一开始就移到widget的中央，然后以该点为原�
 刻度线顶点距离原点真实的长度为 96*side/200,基本接近0.5side，而side = min(self.width(), self.height()),
 所以时钟可以跟随窗口自由缩放
 
+这个本来是想用来给demo2服务的,但是无法正常缩放,所以还是放着给大家玩吧
 '''
 from PyQt5.QtCore import QPoint,QTimer,QRectF,QTime,Qt
 from PyQt5.QtGui import QColor,QPainter,QPolygonF

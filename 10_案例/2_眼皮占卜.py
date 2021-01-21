@@ -3,7 +3,7 @@
 # @Author  : Naruto
 # @Email   : the-naruto@foxmail.com
 # @Project : pyQT5-tutorial-code
-
+# from PyQt5  import sip
 from PyQt5.QtWidgets import QApplication,QWidget,QMessageBox
 from PyQt5.QtGui import QColor
 from PyQt5.QtCore import QTimer
@@ -17,10 +17,7 @@ from i2_EyeJump import Ui_Form
 水   rgb(0,191,255)
 土   rgb(	160,82,45)
 
-self.leftUPBtn.setStyleSheet("QPushButton{background-color:rgb(34,139,34)}")
-self.rightUPBtn.setStyleSheet("QPushButton{background-color:rgb(255,193,37)}")
-self.leftDownBtn.setStyleSheet("QPushButton{background-color:rgb(178,34,34)}")
-self.rightDownBtn.setStyleSheet("QPushButton{background-color:rgb(0,191,255)}")
+如果用的人较多,可以考虑记录按钮点击历史,并在下次打开时确认准不准,通过c/s架构记录按钮点击次数
 
 '''
 
@@ -34,6 +31,7 @@ class EyeJump(QWidget):
 
 
     def initData(self):
+        # a = sip.SIP_VERSION
         # 记录当前时间的小时部分
         self.tm = 0
         # 五行对应颜色
@@ -65,8 +63,12 @@ class EyeJump(QWidget):
                     21:["水","水生木，吉，主贵人相助、酒食、桃花等","水克火，女凶女男，女主有烦心事、口舌、烂桃花等，男主利事业婚姻等","水泄金，半吉，主有人请你吃饭，但有钱财付出等","水旺太过，凶，主破耗钱财、受惊吓、泌尿之疾等","水耗土，吉，主得意外之财、桃花等"],
                     22:["水","水生木，吉，主贵人相助、酒食、桃花等","水克火，女凶女男，女主有烦心事、口舌、烂桃花等，男主利事业婚姻等","水泄金，半吉，主有人请你吃饭，但有钱财付出等","水旺太过，凶，主破耗钱财、受惊吓、泌尿之疾等","水耗土，吉，主得意外之财、桃花等"]
                     }
-        self.ui.textBrowser.setText("各个地方底色的颜色为对应的五行属性，时间可以编辑，点击对应你眼皮跳的按钮即可看到结果。注：时间只看小时部分。")
-
+        self.ui.textBrowser.setText("根据五行学说加我国古代的计时法，每个时辰（"
+                                    "子丑寅卯辰巳午未申"
+                                    "酉戌亥）对应不同的五行，左右上下眼皮又对应着不同的五行，"
+                                    "于是根据五行相生相克的原理-------对不起我实在是编不下去了，这就是我在网上找的素材而已！！！")
+        self.ui.lineEdit.setToolTip("注：时间只看小时部分!")
+        self.ui.leftDownBtn.setToolTip("Made by:忍耐起舞者")
 
     def initTime(self):
         self.timer = QTimer()
@@ -87,13 +89,14 @@ class EyeJump(QWidget):
         self.getSetResult(5)
 
     def getSetResult(self,pos):
-        print(self.tm)
+        # print(self.tm)
         self.ui.textBrowser.setText(self.timeDict.get(self.tm)[pos])
 
     def setCurtime(self):
         lt = time.localtime()  # UTC格式当前时区时间
         st = time.strftime("%H:%M", lt)
         self.ui.lineEdit.setText(st)
+        self.ui.label.setStyleSheet("QLabel{background-color: %s }"%self.colorDict.get(self.timeDict.get(self.tm)[0]).name())
 
     def stopTime(self):
         try:
@@ -109,8 +112,9 @@ class EyeJump(QWidget):
         if self.timer.isActive():
             self.timer.stop()
 
-    # def closeEvent(self,e):
-    #     reply = QMessageBox.question(self,"友情提示!","内容来自网络,结果仅供参考!",QMessageBox.Yes,QMessageBox.Yes)
+    def closeEvent(self,e):
+        if "凶" in self.ui.textBrowser.toPlainText():
+            reply = QMessageBox.question(self,"内容来自网络,结果仅供参考!","不停地猜 猜 猜 又卜了一卦,是吉凶祸福还是担惊受怕~~《卜卦-木亦舟》",QMessageBox.Yes,QMessageBox.Yes)
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
